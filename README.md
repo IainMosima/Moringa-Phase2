@@ -1,6 +1,6 @@
 # Kings County House sells Model
 ## Overview
-This project emphasizes on finding the best model based on two correlated features of a given dataset. It is from this house prices can be predicted based on these two features.
+This project emphasizes on finding the best model for interpreting houses prices, based on two best features. It is from this model, house prices can be predicted.
 
 ## Source
 Given is a King County House sell dataset in the northwestern county.
